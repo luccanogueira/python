@@ -1,0 +1,5 @@
+print("Exercicio 5 - conversão")
+print("")
+pol=float(input("Digite o valor em pelegadas:"))
+print("O valor em centimetros é: ", pol*2.54)
+input("Precione qualquer tecla para sair...")
